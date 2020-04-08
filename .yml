@@ -1,0 +1,2 @@
+- name: Merge Pull Request
+  uses: juliangruber/merge-pull-request-action@v1.0.0
